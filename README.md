@@ -56,3 +56,5 @@ This project was inspired by [Brain MRI CNN + Transfer Learning](https://www.kag
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+*This readme was created with the help of Claude ai*
